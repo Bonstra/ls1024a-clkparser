@@ -1,0 +1,12 @@
+[package]
+name = "ls1024a-clkparser"
+version = "0.1.0"
+description = "A tool to print hardware clock rates from a dump of the CLKRESET registers of a LS1024A SoC"
+authors = ["Hugo Grostabussiat <bonstra@bonstra.fr.eu.org>"]
+edition = "2018"
+license = "GPL-3.0-or-later"
+categories = ["command-line-utilities"]
+keywords = ["ls1024a", "comcerto2000", "hardware", "soc", "clock", "tool"]
+repository = "https://github.com/Bonstra/ls1024a-clkparser"
+
+[dependencies]
